@@ -18,7 +18,7 @@ export class AgregarComponent implements OnInit {
   };
 
   constructor(private EquipoService:EquipoService, private router:Router) { }
-
+ 
   ngOnInit(): void {
   }
 
